@@ -1,1 +1,1 @@
-"#Fundraiser USSD App" 
+# Fundraiser USSD App
